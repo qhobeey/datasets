@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+	<Placemark>
+		<name>Polygon_0</name>
+		<description>User created polygon using Headwall Photonics's polygon tool. Altitude Values for the surface of the ground. Coordinates are in Longitude, Latitude, Altitude triplets.</description>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<altitudeMode>absolute</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						 -0.21628220934656772,5.647326983402906,27.24419975280762
+						 -0.21649678606775913,5.646961304148593,28.78771591186523
+						 -0.21593620438364658,5.646846528860611,31.56307983398438
+						 -0.21576722521570835,5.646195245400617,34.43171691894531
+						 -0.2153689171769968,5.646566263526984,33.42745208740234
+						 -0.21490623612192783,5.646520887222099,33.85923385620117
+						 -0.21483918089655551,5.647073410221895,30.72774124145508
+						 -0.21523748893526706,5.646966642533537,32.00283432006836
+						 -0.21522273678568515,5.647393713168934,29.95236778259277
+						 -0.21539842147616062,5.647080083201833,31.33591651916504
+						 -0.21628220934656772,5.647326983402906,27.24419975280762
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	</Document>
+</kml>
